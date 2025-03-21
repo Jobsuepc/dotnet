@@ -1,0 +1,194 @@
+C:\Users\goten\workspace\RazorDemo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\goten\workspace\RazorDemo\bin\Debug\net9.0\appsettings.json
+C:\Users\goten\workspace\RazorDemo\bin\Debug\net9.0\RazorDemo.staticwebassets.runtime.json
+C:\Users\goten\workspace\RazorDemo\bin\Debug\net9.0\RazorDemo.staticwebassets.endpoints.json
+C:\Users\goten\workspace\RazorDemo\bin\Debug\net9.0\RazorDemo.exe
+C:\Users\goten\workspace\RazorDemo\bin\Debug\net9.0\RazorDemo.deps.json
+C:\Users\goten\workspace\RazorDemo\bin\Debug\net9.0\RazorDemo.runtimeconfig.json
+C:\Users\goten\workspace\RazorDemo\bin\Debug\net9.0\RazorDemo.dll
+C:\Users\goten\workspace\RazorDemo\bin\Debug\net9.0\RazorDemo.pdb
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\RazorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\RazorDemo.AssemblyInfoInputs.cache
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\RazorDemo.AssemblyInfo.cs
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\RazorDemo.csproj.CoreCompileInputs.cache
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\RazorDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\RazorDemo.RazorAssemblyInfo.cache
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\RazorDemo.RazorAssemblyInfo.cs
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\scopedcss\bundle\RazorDemo.styles.css
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\scopedcss\projectbundle\RazorDemo.bundle.scp.css
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\utocuj1ctn-b9sayid5wm.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\mfhn87rxsu-61n19gt1b8.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\sra55o3mln-xtxxf3hu2r.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\01vlvzoomn-bqjiyaj88i.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\5wgw7yup3i-c2jlpeoesf.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\0p7izp6cog-erw9l3u2r3.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\heanwod6ci-aexeepp0ev.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\0eh4mli4ma-d7shbmvgxk.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\fwgb9nvj14-ausgxo2sd3.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\lfgkmkj927-k8d9w2qqmf.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\x45lk47p77-cosvhxvwiu.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\yjykqqqaz7-ub07r2b239.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\jqi443qc0p-fvhpjtyr6v.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\ec06urjnup-b7pk76d08c.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\gik2q3zz3x-fsbi9cje9m.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\itywxxkmp9-rzd6atqjts.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\tmzwmphvaq-ee0r1s7dh0.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\zsd498hhu5-dxx9fxp4il.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\3uwwvcy0uk-jd9uben2k1.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\jwvqr34tas-khv3u5hwcm.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\r9qhhbkc68-r4e9w2rdcm.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\vppddso9yp-lcd1t2u6c8.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\una85i7tpz-c2oey78nd0.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\bhs26tpqif-tdbxkamptv.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\9nmdi2zy46-j5mq2jizvt.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\54ds6sw8n6-06098lyss8.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\s8ypr25heo-nvvlpmu67g.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\7csorto8io-s35ty4nyc5.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\8equ02t6kr-pj5nd1wqec.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\gk4llktnlm-46ein0sx1k.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\ruckyg8roa-v0zj4ognzu.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\godjgcr1jp-37tfw0ft22.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\eyr75afs4s-hrwsygsryq.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\n7x3wi7qbw-pk9g2wxc8p.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\rigumkbgr7-ft3s53vfgj.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\1bepbp0adk-6cfz1n2cew.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\6p2pre9mf9-6pdc2jztkx.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\jdyt2n1v12-493y06b0oq.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\8hrzyii6d8-iovd86k7lj.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\sfrgh5zga0-vr1egmr9el.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\urn8sqsku2-kbrnm935zg.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\1jvyeywvlw-jj8uyg4cgr.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\oi6ljfunv2-y7v9cxd14o.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\6r6hzefwfm-notf2xhcfb.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\f6yiu7wdqg-h1s4sie4z3.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\meg0hto78j-63fj8s7r0e.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\gw9zjp7p8o-0j3bgjxly4.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\u662wxe7xl-47otxtyo56.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\xyq6z6ua8x-4v8eqarkd7.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\zsr5l9bnsn-356vix0kms.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\4tav2a9rvg-83jwlth58m.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\f2bmuz1i4r-mrlpezrjn3.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\5d61osu9xj-lzl9nlhx6b.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\mql5z2ov71-ag7o75518u.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\iheytj2hzu-x0q3zqp4vz.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\rdro9abpde-0i3buxo5is.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\a3t8o7spn9-o1o13a6vjx.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\ai2i2fe0ct-ttgo8qnofa.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\ho5o6ybhkm-2z0ns9nrw6.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\9b4tqkf4ht-muycvpuwrr.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\d3vmeabzuq-87fc7y1x7t.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\8i3pqmr0fb-mlv21k5csn.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\7i55s9fu20-slxii7gxid.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\compressed\6ye1jcixb6-slxii7gxid.gz
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\staticwebassets\msbuild.RazorDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\staticwebassets\msbuild.RazorDemo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\staticwebassets\msbuild.build.RazorDemo.props
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.RazorDemo.props
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.RazorDemo.props
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\RazorDemo.dll
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\refint\RazorDemo.dll
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\RazorDemo.pdb
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\RazorDemo.genruntimeconfig.cache
+C:\Users\goten\workspace\RazorDemo\obj\Debug\net9.0\ref\RazorDemo.dll
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\bin\Debug\net9.0\appsettings.json
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\bin\Debug\net9.0\RazorDemo.staticwebassets.endpoints.json
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\bin\Debug\net9.0\RazorDemo.staticwebassets.runtime.json
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\bin\Debug\net9.0\RazorDemo.exe
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\bin\Debug\net9.0\RazorDemo.deps.json
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\bin\Debug\net9.0\RazorDemo.runtimeconfig.json
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\bin\Debug\net9.0\RazorDemo.dll
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\bin\Debug\net9.0\RazorDemo.pdb
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\RazorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\RazorDemo.AssemblyInfoInputs.cache
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\RazorDemo.AssemblyInfo.cs
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\RazorDemo.csproj.CoreCompileInputs.cache
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\RazorDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\RazorDemo.RazorAssemblyInfo.cache
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\RazorDemo.RazorAssemblyInfo.cs
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\scopedcss\bundle\RazorDemo.styles.css
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\scopedcss\projectbundle\RazorDemo.bundle.scp.css
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\utocuj1ctn-b9sayid5wm.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\mfhn87rxsu-61n19gt1b8.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\sra55o3mln-xtxxf3hu2r.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\01vlvzoomn-bqjiyaj88i.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\5wgw7yup3i-c2jlpeoesf.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\0p7izp6cog-erw9l3u2r3.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\heanwod6ci-aexeepp0ev.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\0eh4mli4ma-d7shbmvgxk.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\fwgb9nvj14-ausgxo2sd3.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\lfgkmkj927-k8d9w2qqmf.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\x45lk47p77-cosvhxvwiu.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\yjykqqqaz7-ub07r2b239.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\jqi443qc0p-fvhpjtyr6v.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\ec06urjnup-b7pk76d08c.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\gik2q3zz3x-fsbi9cje9m.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\itywxxkmp9-rzd6atqjts.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\tmzwmphvaq-ee0r1s7dh0.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\zsd498hhu5-dxx9fxp4il.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\3uwwvcy0uk-jd9uben2k1.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\jwvqr34tas-khv3u5hwcm.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\r9qhhbkc68-r4e9w2rdcm.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\vppddso9yp-lcd1t2u6c8.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\una85i7tpz-c2oey78nd0.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\bhs26tpqif-tdbxkamptv.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\9nmdi2zy46-j5mq2jizvt.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\54ds6sw8n6-06098lyss8.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\s8ypr25heo-nvvlpmu67g.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\7csorto8io-s35ty4nyc5.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\8equ02t6kr-pj5nd1wqec.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\gk4llktnlm-46ein0sx1k.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\ruckyg8roa-v0zj4ognzu.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\godjgcr1jp-37tfw0ft22.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\eyr75afs4s-hrwsygsryq.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\n7x3wi7qbw-pk9g2wxc8p.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\rigumkbgr7-ft3s53vfgj.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\1bepbp0adk-6cfz1n2cew.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\6p2pre9mf9-6pdc2jztkx.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\jdyt2n1v12-493y06b0oq.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\8hrzyii6d8-iovd86k7lj.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\sfrgh5zga0-vr1egmr9el.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\urn8sqsku2-kbrnm935zg.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\1jvyeywvlw-jj8uyg4cgr.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\oi6ljfunv2-y7v9cxd14o.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\6r6hzefwfm-notf2xhcfb.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\f6yiu7wdqg-h1s4sie4z3.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\meg0hto78j-63fj8s7r0e.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\gw9zjp7p8o-0j3bgjxly4.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\u662wxe7xl-47otxtyo56.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\xyq6z6ua8x-4v8eqarkd7.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\zsr5l9bnsn-356vix0kms.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\4tav2a9rvg-83jwlth58m.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\f2bmuz1i4r-mrlpezrjn3.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\5d61osu9xj-lzl9nlhx6b.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\mql5z2ov71-ag7o75518u.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\iheytj2hzu-x0q3zqp4vz.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\rdro9abpde-0i3buxo5is.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\a3t8o7spn9-o1o13a6vjx.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\ai2i2fe0ct-ttgo8qnofa.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\ho5o6ybhkm-2z0ns9nrw6.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\9b4tqkf4ht-muycvpuwrr.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\d3vmeabzuq-87fc7y1x7t.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\8i3pqmr0fb-mlv21k5csn.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\7i55s9fu20-slxii7gxid.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\compressed\6ye1jcixb6-slxii7gxid.gz
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\staticwebassets\msbuild.RazorDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\staticwebassets\msbuild.RazorDemo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\staticwebassets\msbuild.build.RazorDemo.props
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.RazorDemo.props
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.RazorDemo.props
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\RazorDemo.dll
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\refint\RazorDemo.dll
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\RazorDemo.pdb
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\RazorDemo.genruntimeconfig.cache
+C:\Users\goten\workspace\Primer Parcial\RazorDemo\obj\Debug\net9.0\ref\RazorDemo.dll

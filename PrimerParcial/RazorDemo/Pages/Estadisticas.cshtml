@@ -1,0 +1,99 @@
+@page
+@model RazorDemo.Pages.EstadisticasModel
+@{
+    ViewData["Title"] = "Estadísticas";
+}
+
+<h2>Estadísticas</h2>
+
+<canvas id="aprovechamientoChart" width="400" height="200"></canvas>
+<canvas id="mejoresAlumnosChart" width="400" height="200"></canvas>
+<canvas id="peoresAlumnosChart" width="400" height="200"></canvas>
+<canvas id="porcentajeChart" width="400" height="200"></canvas>
+<canvas id="modaChart" width="400" height="200"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+    var aprovechamientoGeneral = @Model.AprovechamientoGeneral;
+    var mejoresAlumnos = @Html.Raw(Json.Serialize(Model.MejoresAlumnos));
+    var peoresAlumnos = @Html.Raw(Json.Serialize(Model.PeoresAlumnos));
+    var porcentajeAprobados = @Model.PorcentajeAprobados;
+    var porcentajeReprobados = @Model.PorcentajeReprobados;
+    var modaCalificacion = @Model.ModaCalificacion;
+
+    var ctxAprovechamiento = document.getElementById('aprovechamientoChart').getContext('2d');
+    var aprovechamientoChart = new Chart(ctxAprovechamiento, {
+        type: 'bar',
+        data: {
+            labels: ['Aprovechamiento General'],
+            datasets: [{
+                label: 'Promedio General',
+                data: [aprovechamientoGeneral],
+                backgroundColor: ['rgba(75, 192, 192, 0.2)'],
+                borderColor: ['rgba(75, 192, 192, 1)'],
+                borderWidth: 1
+            }]
+        }
+    });
+
+    var ctxMejores = document.getElementById('mejoresAlumnosChart').getContext('2d');
+    var mejoresAlumnosChart = new Chart(ctxMejores, {
+        type: 'bar',
+        data: {
+            labels: mejoresAlumnos.map(a => a.Nombre), 
+            datasets: [{
+                label: 'Promedio',
+                data: mejoresAlumnos.map(a => a.Promedio),
+                backgroundColor: 'rgba(54, 162, 235, 0.6)',
+                borderColor: 'rgba(54, 162, 235, 1)',
+                borderWidth: 1
+            }]
+        }
+    });
+
+    var ctxPeores = document.getElementById('peoresAlumnosChart').getContext('2d');
+    var peoresAlumnosChart = new Chart(ctxPeores, {
+        type: 'bar',
+        data: {
+            labels: peoresAlumnos.map(a => a.Nombre),
+            datasets: [{
+                label: 'Promedio de Peores Alumnos',
+                data: peoresAlumnos.map(a => a.Promedio),
+                backgroundColor: 'rgba(255, 99, 132, 0.6)',
+                borderColor: 'rgba(255, 99, 132, 1)',
+                borderWidth: 1
+            }]
+        }
+    });
+
+    var ctxPorcentaje = document.getElementById('porcentajeChart').getContext('2d');
+    var porcentajeChart = new Chart(ctxPorcentaje, {
+        type: 'pie',
+        data: {
+            labels: ['Aprobados', 'Reprobados'],
+            datasets: [{
+                label: 'Porcentaje Aprobados y Reprobados',
+                data: [porcentajeAprobados, porcentajeReprobados],
+                backgroundColor: ['rgba(75, 192, 192, 0.2)', 'rgba(255, 99, 132, 0.2)'],
+                borderColor: ['rgba(75, 192, 192, 1)', 'rgba(255, 99, 132, 1)'],
+                borderWidth: 1
+            }]
+        }
+    });
+
+    var ctxModa = document.getElementById('modaChart').getContext('2d');
+    var modaChart = new Chart(ctxModa, {
+        type: 'bar',
+        data: {
+            labels: ['Moda de Calificación'],
+            datasets: [{
+                label: 'Calificación Moda',
+                data: [modaCalificacion],
+                backgroundColor: 'rgba(153, 102, 255, 0.2)',
+                borderColor: 'rgba(153, 102, 255, 1)',
+                borderWidth: 1
+            }]
+        }
+    });
+</script>
